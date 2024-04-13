@@ -159,6 +159,9 @@ header.p-section {
 }
 
 .byte-bite-img {
-  height: 1600px;
-  width: 900px;
+  height: 736px;
+}
+
+.background-image {
+  height: 736px;
 }
