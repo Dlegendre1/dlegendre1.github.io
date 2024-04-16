@@ -57,7 +57,7 @@ sup,
 }
 
 .section-inverse {
-  margin-top: 180px;
+  margin-top: 90px;
   padding: 1px 0px;
 }
 
@@ -159,5 +159,9 @@ header.p-section {
 }
 
 .byte-bite-img {
-  height: 400px;
+  height: 300px;
+}
+
+.crib-rave-img {
+  height: 300px;
 }
